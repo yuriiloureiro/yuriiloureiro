@@ -1,42 +1,64 @@
-# Hi, I'm Yuri Loureiro 👋
+👋 Hi, I'm Yuri Loureiro
 
-Full Stack Developer in training | TripleTen Bootcamp Student | Open to opportunities in Europe
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, BEM Methodology, Responsive Design
-- **Tools:** Git, GitHub, VS Code, Command Line
-- **Learning:** JavaScript, React, Node.js
+🇧🇷 Brazilian Web Developer with UX/UI Design background  
+🎯 Targeting junior developer opportunities in Europe (remote/relocation)  
+🧠 3 years freelance experience + UX/UI Certification (Coderhouse, 2022)  
+📈 Pagespeed 90+ | Custom WordPress | Advanced HTML/CSS  
+🚀 Leveling up to Full-Stack (React/Node.js) at TripleTen bootcamp
 
 ---
 
-## 📚 Projects
+## 🛠️ Tech Stack & Tools
 
-### Triple Peaks Library
-Responsive landing page for a library with semantic HTML and advanced CSS layouts.
-- [Repository](https://github.com/yuriiloureiro/web_project_library_pt)
-- W3C Validated ✅
+**Front-End**  
+HTML5 · CSS3 (Flexbox/Grid, BEM) · Responsive Design · JavaScript (learning) · React (learning)
 
-### About Me Project
-Personal profile website showcasing HTML and CSS fundamentals.
-- [Repository](https://github.com/yuriiloureiro/web_project_library)
+**WordPress**  
+Child Themes · PHP Hooks · WooCommerce · Performance (90+ Pagespeed) · Plugin Debugging
 
----
+**UX/UI Design**  
+UX Research · Wireframing · Prototyping · Figma · User Flows · Information Architecture
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriiloureiro&show_icons=true&theme=dark)
+**Tools**  
+Git · GitHub · VS Code · CPanel · SSH (basics)
 
 ---
 
-## 📫 Contact
+## 📌 Featured Projects
 
-- **Email:** [loureiroyurijobs@gmail.com](mailto:loureiroyurijobs@gmail.com)
-- **LinkedIn:** [linkedin.com/in/loureiroyuri](https://www.linkedin.com/in/loureiroyuri)
-- **GitHub:** [github.com/yuriiloureiro](https://github.com/yuriiloureiro)
+🔹 [**Auramax**](https://auramax.loureiroyuri.com.br) — Custom WordPress Website  
+→ Hand-coded HTML/CSS sections, no page builders  
+→ **Pagespeed: 94 mobile / 98 desktop**  
+→ UX applied: visual hierarchy, conversion flow, accessibility
+
+🔹 [**Psychology**](https://annapsicologia.com.br/neuropsicologia-online) — High-Conversion Landing Page  
+→ WordPress + advanced CSS customizations  
+→ SEO-structured, custom form, mobile-first  
+→ **Pagespeed: 90+**
+
+🔹 [**Triple Peaks Library**](https://github.com/yuriiloureiro/triple-peaks-library) — Bootcamp Project  
+→ Semantic HTML5, pure CSS, BEM methodology  
+→ Responsive, W3C validated
 
 ---
 
-*Always learning, always improving* 🚀
+## 📚 Currently Learning
+
+▸ JavaScript (ES6+) — DOM manipulation, Fetch API  
+▸ React — components, props, state  
+▸ Node.js — back-end, REST APIs  
+▸ Technical English — daily practice
+
+---
+
+## 📫 Reach Me
+
+📧 loureiroyurijobs@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/loureiroyuri)  
+🐙 [GitHub](https://github.com/yuriiloureiro)
+
+
+---
+
+⭐ Always learning, always improving.  
+**Open to connections and opportunities in Europe.**
