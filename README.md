@@ -1,49 +1,78 @@
+<div align="center">
+
 # Hi, I'm Yuri Loureiro 👋
 
-### Full-Stack Developer | UX/UI Enthusiast | Performance Specialist
+### Front-end Developer · UX/UI Designer
 
-I am a Web Developer with **4 years of experience** as a freelancer, bridging the gap between complex code and intuitive design. Currently, I'm deep-diving into the **Full-Stack ecosystem (React, Node.js, TypeScript)** through the TripleTen Bootcamp to build scalable and robust applications.
+Building modern, accessible and performant web experiences with **React, Next.js & TypeScript**.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-loureiroyuri.com-D4F542?style=for-the-badge&logo=vercel&logoColor=black)](https://www.loureiroyuri.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loureiroyuri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@loureiroyuri.com)
 
-### 🚀 What I'm currently working on:
-- 💻 **Full-Stack Transition:** Mastering React, Express, and MongoDB.
-- ⚡ **Performance First:** Building web applications with 90+ PageSpeed scores.
-- 🎨 **Product Mindset:** Applying UX/UI principles to every line of CSS/JS I write.
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-**Frontend & Design**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**Backend & Tools**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-### 📊 Featured Projects:
+### 👨‍💻 About me
 
-*   **[Portfolio 2026](https://www.loureiroyuri.com)** - Built with Next.js, TypeScript, and Framer Motion. Features i18n and custom micro-interactions.
-*   **[AuraMax Landing Page](https://auramax.loureiroyuri.com.br/)** - High-performance e-commerce landing page (98/100 PageSpeed).
-*   **[Neuropsychology Clinic](https://annapsicologia.com.br/neuropsicologia-online/)** - UX-driven project focused on conversion and accessibility.
+Front-end Developer with **4 years of experience** building web interfaces that are not just beautiful — they convert. I combine technical execution with product thinking, a legacy from my UX/UI Design certification.
+
+Currently deepening my full-stack foundation through the **TripleTen Bootcamp** (React, Node.js, REST APIs).
+
+🌎 Digital nomad since 2022. Passionate about movement, new cultures, nature and tech.
+
+---
+
+### 🚀 What I'm working on
+
+- 💻 **Front-end first** — React, Next.js 16, TypeScript & Tailwind 4
+- ⚡ **Performance** — 90+ PageSpeed scores across projects
+- 🎨 **Design-driven** — UX/UI principles applied to every line of code
+- 🌍 **Open to opportunities** — Front-end Developer roles (Remote / Brazil / International)
 
 ---
 
-### 📫 Connect with me:
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loureiroyuri)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.loureiroyuri.com)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Design & UX**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**CMS & Tools**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+### 📊 Featured Projects
+
+- 🌐 **[Portfolio v2](https://www.loureiroyuri.com)** — Personal site built with Next.js 16, React 19, TypeScript & Tailwind 4. Features i18n (PT/EN), Framer Motion animations and a code-first dark theme.
+- 🏠 **[Scaramuzzi](https://www.loureiroyuri.com/work/scaramuzzi)** — Real estate platform with multi-filter search, favorites system and SSG for SEO performance.
+- 🎧 **[AuraMax](https://auramax.loureiroyuri.com.br/)** — Premium e-commerce landing page (94/98 PageSpeed). Custom WordPress child theme with full HTML/CSS sections.
+- 🧠 **[Anna Psicologia](https://annapsicologia.com.br/neuropsicologia-online/)** — UX-driven landing page for an online neuropsychology clinic. Focused on conversion and accessibility.
+
+---
+
+
+<div align="center">
 
 *"Code is poetry, but performance is a necessity."*
+
+📩 **[hello@loureiroyuri.com](mailto:hello@loureiroyuri.com)** · 🌐 **[loureiroyuri.com](https://www.loureiroyuri.com)**
+
+</div>
